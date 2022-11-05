@@ -1,0 +1,12 @@
+body {
+    overflow: hidden;
+}
+
+.circle {
+    width: 30px;
+    height: 30px;
+    background: #6F1E51;
+    border: 2px solid #D980FA;
+    border-radius: 50%;
+    position: absolute;
+}
